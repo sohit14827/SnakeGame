@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Library  Managment"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\lenovo\\OneDrive\\Desktop\\Jar-20240121T051801Z-001\\Jar\\mysql-connector-java-8.0.28.jar"
+		]
+	}
+}
